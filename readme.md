@@ -1,0 +1,5 @@
+The Data Cleaning Tool is a Python program that helps users analyze and clean data stored in CSV files. The program can identify missing values, duplicates, and rows with all missing values in the input data, and suggest appropriate cleaning and preprocessing steps based on the identified issues.
+
+The program prompts the user for the filename of the input CSV file and reads the data from the file. It then analyzes the data and identifies any issues that need to be addressed. If issues are found, the program suggests cleaning and preprocessing steps that the user can select and apply to the data. The program then cleans the data according to the selected steps and writes the cleaned data to a new CSV file.
+
+The Data Cleaning Tool is intended to be a helpful tool for data analysts, data scientists, and others who work with CSV data and need to ensure that the data is clean and ready for analysis.
